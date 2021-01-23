@@ -1,0 +1,12 @@
+.shadow1{
+width: 250px;
+height: 250px;
+margin: 50px;
+border-radius: 50px;
+background: #EBECF0;
+box-shadow: inset 5px 5px 20px #c8c9cc,inset -5px -5px 20px #ffffff;
+}
+
+body{
+  background-color: #EBECF0;
+}
